@@ -4,7 +4,7 @@ void setup() {
 
   // Title
   fill(30);
-  textSize(40);
+  textSize(42);
   text("My Dreams", 40, 50);
 }
 
