@@ -23,11 +23,16 @@ void setup() {
   fill(236, 105, 126);
   ellipse(470, 150, 50, 50);
   
+  // Green circle = No dream remembered
+  fill(100, 180, 130);
+  ellipse(600, 150, 50, 50);
+
   textSize(16);
   text("Strange", 58, 200);
   text("Happy", 190, 200);
   text("Scary", 320, 200);
   text("Sad", 458, 200);
+  text("No memory", 535, 200);
 }
 
 void draw() {
