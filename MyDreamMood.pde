@@ -32,7 +32,7 @@ void setup() {
   text("Happy", 190, 200);
   text("Scary", 320, 200);
   text("Sad", 458, 200);
-  text("No memory", 535, 200);
+  text("No memory", 570, 200);
 }
 
 void draw() {
