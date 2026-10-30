@@ -15,9 +15,19 @@ void setup() {
   fill(245, 195, 70);
   ellipse(210, 150, 50, 50);
   
+  // Blue circle = Scary dream
+  fill(100, 145, 220);
+  ellipse(340, 150, 50, 50);
+
+  // Pink circle = Sad dream
+  fill(236, 105, 126);
+  ellipse(470, 150, 50, 50);
+  
   textSize(16);
   text("Strange", 58, 200);
   text("Happy", 190, 200);
+  text("Scary", 320, 200);
+  text("Sad", 458, 200);
 }
 
 void draw() {
