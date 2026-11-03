@@ -1,5 +1,5 @@
 void setup() {
-  size(780, 480);
+  size(850, 550);
   background(255);
 
   // Title
@@ -54,6 +54,20 @@ void setup() {
   text("13 Oct - No memory", 220, 370);
   text("14 Oct - Happy", 220, 390);
   
+
+  text("15 Oct - Sad", 400, 310);
+  text("16 Oct - No memory", 400, 330);
+  text("17 Oct - No memory", 400, 350);
+  text("18 Oct - Strange", 400, 370);
+  text("19 Oct - Happy", 400, 390);
+
+
+  text("20 Oct - No memory", 570, 310);
+  text("21 Oct - Strange", 570, 330);
+  text("22 Oct - Scary", 570, 350);
+  text("23 Oct - Happy", 570, 370);
+  text("24 Oct - No memory", 570, 390);
+
 
 }
 
