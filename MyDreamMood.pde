@@ -1,11 +1,12 @@
 void setup() {
-  size(750, 400);
+  size(780, 480);
   background(255);
 
   // Title
   fill(30);
   textSize(42);
   text("My Dreams", 40, 50);
+  
   
   // Purple circle = Strange dream
   fill(180, 159, 210);
@@ -37,6 +38,13 @@ void setup() {
   fill(0);
   textSize(16);
   text("What do I dream about when I sleep?", 40, 270);
+  
+  textSize(12);
+
+  text("05 Oct - Strange", 40, 310);
+  text("06 Oct - No memory", 40, 330);
+  
+
 }
 
 void draw() {
