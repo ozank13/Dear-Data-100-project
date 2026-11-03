@@ -39,10 +39,15 @@ void setup() {
   textSize(16);
   text("What do I dream about when I sleep?", 40, 270);
   
-  textSize(12);
+  textSize(13);
 
   text("05 Oct - Strange", 40, 310);
   text("06 Oct - No memory", 40, 330);
+  text("07 Oct - Sad", 40, 350);
+  text("08 Oct - No memory", 40, 370);
+  text("09 Oct - No memory", 40, 390);
+  
+  
   
 
 }
