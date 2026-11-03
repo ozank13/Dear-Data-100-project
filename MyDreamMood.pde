@@ -39,6 +39,7 @@ void setup() {
   textSize(16);
   text("What do I dream about when I sleep?", 40, 270);
   
+  fill(300,30,75);
   textSize(13);
 
   text("05 Oct - Strange", 40, 310);
