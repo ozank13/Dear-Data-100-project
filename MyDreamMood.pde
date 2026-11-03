@@ -47,7 +47,11 @@ void setup() {
   text("08 Oct - No memory", 40, 370);
   text("09 Oct - No memory", 40, 390);
   
-  
+  text("10 Oct - Happy", 220, 310);
+  text("11 Oct - Happy", 220, 330);
+  text("12 Oct - Scary", 220, 350);
+  text("13 Oct - No memory", 220, 370);
+  text("14 Oct - Happy", 220, 390);
   
 
 }
