@@ -33,6 +33,10 @@ void setup() {
   text("Scary", 320, 200);
   text("Sad", 458, 200);
   text("No memory", 570, 200);
+  
+  fill(0);
+  textSize(16);
+  text("What do I dream about when I sleep?", 40, 270);
 }
 
 void draw() {
